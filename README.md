@@ -1,7 +1,7 @@
 # [RFC] DeepSeek V4-Pro: The "Edge-First" Multimodal Architecture
 
 **Status:** Proposal / Community RFC  
-**Author:** Hloniphani (@[YourGitHubHandle])  
+**Author:** Hloniphani (@sa_paiige])  
 Date: May 1, 2026  
 
 ---
